@@ -11,6 +11,9 @@
 /* Nav style */
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
 }
 /* shared color */
 .primarycolor{
