@@ -1,0 +1,8 @@
+/* Nav style */
+nav{
+    display: flex;
+}
+/* shared color */
+.primarycolor{
+    color: #FD6E0A;
+}
