@@ -1,4 +1,4 @@
- /* header */
+ /* /* header * */
  .header{
     background-image: url(./images/developer.png), url(./images/header_bg.png);
     background-repeat: no-repeat;
@@ -49,6 +49,9 @@ nav{
 .secendary-bg{
       background-color: #FFF8F3;
 }
+.text-center{
+    text-align: center;
+}
 
 
 .nav-title{
@@ -91,6 +94,7 @@ nav ul{
 }
 .content-container{
     max-width: 585px;
+    height: 385px;
 }
 /* about style */
 .about-title{
@@ -103,4 +107,21 @@ nav ul{
 main{
     max-width: 1140px;
     margin: 0 auto;
+}
+.about{
+    padding: 125px 150px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 150px;
+}
+.item-title{
+    font-size: 20px;
+}
+.item-dis{
+    font-size: 20px;
+    font-weight: bold;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
 }
