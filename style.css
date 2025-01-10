@@ -125,3 +125,14 @@ main{
     display: flex;
     justify-content: space-around;
 }
+/* skill section */
+.skill{
+    display: flex;
+    justify-content: space-around;
+}
+.skill{
+    text-align: center;
+}
+img{
+    width: 44px;
+}
